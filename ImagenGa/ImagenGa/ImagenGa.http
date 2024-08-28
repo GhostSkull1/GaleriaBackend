@@ -1,0 +1,6 @@
+@ImagenGa_HostAddress = http://localhost:5155
+
+GET {{ImagenGa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

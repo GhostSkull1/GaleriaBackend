@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|c:\\users\\jcatano\\documents\\trabajos\\galeria_imagenes\\galeriabackend\\imagenga\\imagenga\\controllers\\imagencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|solutionrelative:imagenga\\controllers\\imagencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|c:\\users\\jcatano\\documents\\trabajos\\galeria_imagenes\\galeriabackend\\imagenga\\imagenga\\models\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|solutionrelative:imagenga\\models\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|c:\\users\\jcatano\\documents\\trabajos\\galeria_imagenes\\galeriabackend\\imagenga\\imagenga\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|solutionrelative:imagenga\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|c:\\users\\jcatano\\documents\\trabajos\\galeria_imagenes\\galeriabackend\\imagenga\\imagenga\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|solutionrelative:imagenga\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|c:\\users\\jcatano\\documents\\trabajos\\galeria_imagenes\\galeriabackend\\imagenga\\imagenga\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|solutionrelative:imagenga\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|c:\\users\\jcatano\\documents\\trabajos\\galeria_imagenes\\galeriabackend\\imagenga\\imagenga\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|solutionrelative:imagenga\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|c:\\users\\jcatano\\documents\\trabajos\\galeria_imagenes\\galeriabackend\\imagenga\\imagenga\\imagenga.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|solutionrelative:imagenga\\imagenga.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|c:\\users\\jcatano\\documents\\trabajos\\galeria_imagenes\\galeriabackend\\imagenga\\imagenga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAA6766-06F3-4E85-A454-FEB26DE959DC}|ImagenGa\\ImagenGa.csproj|solutionrelative:imagenga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "ImagenGa\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "ImagenGa\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:58:06.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "ImagenGa\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "ImagenGa\\Custom\\Utilidades.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:49:26.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "ImagenGa\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Models\\Rol.cs",
+              "RelativeToolTip": "ImagenGa\\Models\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:38:45.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImagenGa.csproj",
+              "DocumentMoniker": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\ImagenGa.csproj",
+              "RelativeDocumentMoniker": "ImagenGa\\ImagenGa.csproj",
+              "ToolTip": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\ImagenGa.csproj",
+              "RelativeToolTip": "ImagenGa\\ImagenGa.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T16:59:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Models\\Imagen.cs",
+              "RelativeDocumentMoniker": "ImagenGa\\Models\\Imagen.cs",
+              "ToolTip": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Models\\Imagen.cs",
+              "RelativeToolTip": "ImagenGa\\Models\\Imagen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:51:47.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ImagenGa\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Models\\Usuario.cs",
+              "RelativeToolTip": "ImagenGa\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:55:40.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Program.cs",
+              "RelativeDocumentMoniker": "ImagenGa\\Program.cs",
+              "ToolTip": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Program.cs",
+              "RelativeToolTip": "ImagenGa\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:35:39.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImagenController.cs",
+              "DocumentMoniker": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Controllers\\ImagenController.cs",
+              "RelativeDocumentMoniker": "ImagenGa\\Controllers\\ImagenController.cs",
+              "ToolTip": "C:\\Users\\jcatano\\Documents\\Trabajos\\Galeria_Imagenes\\GaleriaBackend\\ImagenGa\\ImagenGa\\Controllers\\ImagenController.cs",
+              "RelativeToolTip": "ImagenGa\\Controllers\\ImagenController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAFwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:58:55.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
